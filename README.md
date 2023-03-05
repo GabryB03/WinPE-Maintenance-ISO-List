@@ -8,3 +8,4 @@
 * [Memtest86](https://www.memtest86.com/)
 * [Kaspersky Free Rescue Disk](https://www.kaspersky.it/downloads/free-rescue-disk)
 * [ESET SysRescue Live](https://www.eset.com/it/support/sysrescue/)
+* [Parted Magic](https://filecr.com/windows/parted-magic/?id=8356635216)
